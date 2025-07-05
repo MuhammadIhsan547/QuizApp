@@ -30,6 +30,3 @@ Berikut adalah beberapa file dan direktori penting dalam proyek ini:
 * `lib/profile.dart`: Halaman yang menampilkan detail profil.
 * `lib/datas/questions.dart`: Berisi daftar pertanyaan dan jawaban untuk kuis.
 
----
-
-**Catatan**: *README* ini dibuat berdasarkan analisis kode proyek Anda. Anda bisa menambahkan detail lain seperti cara menjalankan proyek atau screenshot aplikasi.
